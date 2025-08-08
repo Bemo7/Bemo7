@@ -32,7 +32,7 @@ I'm Ben, a tech enthusiast with a computer science degree.
 
 ## Frameworks 🏗️
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-2e1e45?style=flat-square&logo=bootstrap)
-![Spring-Boot](https://img.shields.io/badge/Spring%203Boot-027313?style=flat-square&logo=springboot)
+![Spring-Boot](https://img.shields.io/badge/Spring%20Boot-027313?style=flat-square&logo=springboot)
 ![Angular](https://img.shields.io/badge/Angular-c302c9?style=flat-square&logo=angular)
 
 ## Database 📦
